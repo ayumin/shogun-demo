@@ -4,7 +4,7 @@
 
 [Shogun](https://getshogun.com/) is Powerful drag & drop page building for any website.
 
-This is an example app which is able to create pages with Shogun on Heroku.
+This is an example app which is able to create pages with Shogun on [Heroku](https://www.heroku.com/home).
 
 ![](https://ucarecdn.com/a0267939-466b-46e6-a650-c027f7f3f63e/)
 
