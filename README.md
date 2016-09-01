@@ -24,7 +24,7 @@ $ git push heroku master
 
 ## Configuration
 
-Login to Heroku dashboard and access Shogun dashboard through app setting.
+Login to [Heroku dashboard](https://dashboard.heroku.com/) and access Shogun dashboard through app setting.
 
 or
 
@@ -49,6 +49,11 @@ or using heroku command
 $ heroku open
 ````
 
+## References
+- [Shogun website](https://getshogun.com/)
+- [Shogun tutrials](https://getshogun.com/tutorials)
+- [Shogun documentations](https://getshogun.com/docs)
+- [Shogun Addon page](https://elements.heroku.com/addons/shogun)
 
 Enjoy ;)
 
