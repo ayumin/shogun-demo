@@ -19,6 +19,8 @@ Clone this repository into your local machine and push it to Heroku.
 $ git clone https://github.com/ayumin/shogun-demo.git
 $ cd shogun-demo
 $ heroku create
+$ heroku addons:create heroku-postgresql
+$ heroku addons:create shogun
 $ git push heroku master
 ````
 
