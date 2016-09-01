@@ -24,7 +24,7 @@ $ git push heroku master
 
 ## Configuration
 
-Login to Heroku dashboard and access Shogun dasuboard through app setting.
+Login to Heroku dashboard and access Shogun dashboard through app setting.
 
 or
 
