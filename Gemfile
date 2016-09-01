@@ -4,6 +4,7 @@ gem 'rails', '3.2.22.3'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
+gem 'rails_12factor'
 
 gem 'pg'
 
