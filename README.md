@@ -1,4 +1,5 @@
-# Shogun demo
+![](https://s3.amazonaws.com/assets.heroku.com/addons.heroku.com/icons/1605/original.png)
+# Shogun CMS demo
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ayumin/shogun-demo/tree/master)
 
