@@ -2,11 +2,14 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ayumin/shogun-demo/tree/master)
 
-Shogun is Powerful drag & drop page building for any website.
+[Shogun](https://getshogun.com/) is Powerful drag & drop page building for any website.
+
 This is an example app which is able to create pages with Shogun on Heroku.
 
+![](https://ucarecdn.com/a0267939-466b-46e6-a650-c027f7f3f63e/)
+
 ## Deploy
-Click button to deploy your app on Heroku, now.
+Click button to deploy your app on Heroku, ***now***.
 
 or
 
@@ -21,21 +24,23 @@ $ git push heroku master
 
 ## Configuration
 
-Login to Heroku Dashboard and access Shogun dasuboard through app setting.
+Login to Heroku dashboard and access Shogun dasuboard through app setting.
 
 or
 
 Open Shogun dashboard by heroku command
 
 ````
-$ heroku addons:open
+$ heroku addons:open shogun
 ````
 
 Then, you can ready to create new website using Shogun.
+
 Look at [Shogun tutrials](https://getshogun.com/tutorials) to see how to build your awesome website.
 
 ## Open your website
 After configuration, you can see your website soon.
+
 Open your website from Heroku dashboard
 
 or using heroku command
