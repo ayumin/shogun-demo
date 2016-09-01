@@ -8,6 +8,9 @@ This is an example app which is able to create pages with Shogun on [Heroku](htt
 
 ![](https://ucarecdn.com/a0267939-466b-46e6-a650-c027f7f3f63e/)
 
+## Demo
+Here is [demo video](https://youtu.be/42EqgRC9woU)
+
 ## Deploy
 Click button to deploy your app on Heroku, ***now***.
 
