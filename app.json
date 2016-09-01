@@ -4,6 +4,7 @@
   "keywords": [
     "CMS"
   ],
+  "logo": "https://s3.amazonaws.com/assets.heroku.com/addons.heroku.com/icons/1605/original.png",
   "website": "https://getshogun.com/",
   "repository": "https://github.com/getshogun/shogun_rails",
   "env": {
@@ -14,12 +15,6 @@
     "WEB_CONCURRENCY": {
       "description": "The number of processes to run.",
       "value": "5"
-    }
-  },
-  "formation": {
-    "web": {
-      "quantity": 2,
-      "size": "Performance-M"
     }
   },
   "image": "heroku/ruby",
